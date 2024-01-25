@@ -1,7 +1,7 @@
 
 # Fruits Vegetable Classifier with keggle datasets using CV
 
-• This repository consists of files required to deploy A Virtual AI Keyboard
+• This repository consists of files required to deploy Fruit vegetable classifier App
 
 • Please do ⭐ the repository, if it helped you in anyway.
 ## Authors
